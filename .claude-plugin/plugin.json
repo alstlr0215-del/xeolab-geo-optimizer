@@ -1,0 +1,21 @@
+{
+  "name": "xeolab-geo-optimizer",
+  "description": "XeoLab AI Search Optimization by MNGC: evidence-based SEO, AEO, GEO, LLMO and Naver audits, recommendations, approved implementation and measurement.",
+  "version": "1.4.0",
+  "author": {
+    "name": "MNGC (주식회사 망고크리에이티브)"
+  },
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "aeo",
+    "geo",
+    "llmo",
+    "naver",
+    "llms-txt",
+    "ai-search",
+    "content-marketing",
+    "blog"
+  ],
+  "homepage": "https://github.com/alstlr0215-del/xeolab-geo-optimizer"
+}
