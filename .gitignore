@@ -1,0 +1,10 @@
+.DS_Store
+node_modules/
+tmp-*
+*.log
+__pycache__/
+*.pyc
+
+# Local work and generated deliverables
+/work/
+/outputs/
